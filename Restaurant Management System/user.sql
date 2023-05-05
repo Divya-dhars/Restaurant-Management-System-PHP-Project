@@ -1,0 +1,1 @@
+CREATE TABLE user(id int,username varchar(50),email varchar(50),password varchar(50),default_user varchar(50));
